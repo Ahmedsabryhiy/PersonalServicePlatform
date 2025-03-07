@@ -1,0 +1,130 @@
+﻿@* 
+@model IEnumerable<TbServiceDTO>
+
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Search and Filter Form -->
+<form method="get" asp-controller="Services" asp-action="Index" class="form-inline">
+    <div class="form-group">
+        <input type="text" name="searchTerm" class="form-control" 
+               placeholder="Search..." 
+               value="@ViewBag.SearchTerm" />
+    </div>
+
+    <div class="form-group">
+        <select name="categoryId" class="form-control">
+            <option value="">All Categories</option>
+            @if (ViewBag.Categories != null)
+            {
+                foreach (var category in ViewBag.Categories)
+                {
+                    <option value="@category.Id" selected="@(ViewBag.CategoryId == category.Id)">
+                        @category.Name
+                    </option>
+
+                }
+            }
+        </select>
+    </div> 
+
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<!-- Service Listings Table -->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Service Title</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in Model)
+        {
+            <tr>
+                <td>@service.Name</td>
+                <td>@service.Description</td>
+                <td>@service.Price.ToString("C")</td>
+                <td>@service.Location</td>
+            </tr>
+        }
+    </tbody>
+</table>
+ *@
+ @model IEnumerable<TbServiceDTO>
+@{
+    ViewData["Title"] = "Services";
+}
+
+<div class="container my-4">
+    <!-- Header Section -->
+    <div class="jumbotron text-center bg-primary text-white py-4">
+        <h1 class="display-4">@ViewData["Title"]</h1>
+        <p class="lead">Discover the best services tailored for you!</p>
+    </div>
+
+    <!-- Search and Filter Form Card -->
+    <div class="card mb-4 shadow-sm">
+        <div class="card-header bg-light">
+            <h5 class="mb-0">Search & Filter</h5>
+        </div>
+        <div class="card-body">
+            <form method="get" asp-controller="Services" asp-action="Index" class="form-inline justify-content-center">
+                <div class="form-group mr-2">
+                    <input type="text" name="searchTerm" class="form-control" placeholder="Search..." value="@ViewBag.SearchTerm" />
+                </div>
+                <div class="form-group mr-2">
+                    <select name="categoryId" class="form-control">
+                        <option value="">All Categories</option>
+                        @if (ViewBag.Categories != null)
+                        {
+                            foreach (var category in ViewBag.Categories)
+                            {
+                                <option value="@category.Id" selected="@(ViewBag.CategoryId == category.Id)">
+                                    @category.Name
+                                </option>
+
+                            }
+                        }
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Service Listings Table Card -->
+    <div class="card shadow-sm">
+        <div class="card-header bg-light">
+            <h5 class="mb-0">Service Listings</h5>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Service Title</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Location</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var service in Model)
+                        {
+                            <tr>
+                                <td>@service.Name</td>
+                                <td>@service.Description</td>
+                                <td>@service.Price.ToString("C")</td>
+                                <td>@service.Location</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
