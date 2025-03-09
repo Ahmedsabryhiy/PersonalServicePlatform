@@ -1,0 +1,135 @@
+﻿@model List<TbBookingDTO  >
+
+
+
+<div class="container-scroller">
+
+    <div class="container-fluid page-body-wrapper">
+        <div class="main-panel">
+            <div class="content-wrapper">
+                <div class="page-header">
+                    <h3 class="page-title"> Service </h3>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#"></a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Data  Customers</li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">services</h4>
+                        <div class="row">
+                            <div class="col-12">
+                                <a asp-controller="Bookings" asp-action="Edit" class="btn btn-success btn-fw">New</a>
+                                <table id="order-listing" class="table">
+                                    <thead>
+                                        <tr>
+                                            <th> Booking date</th>
+
+                                            <th> ScheduledStart</th>
+                                            <th> ScheduledEnd</th>
+                                            <th>Status</th>
+                                            <th>Total Price</th>
+
+                                            <th>Actions</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.BookingDate </td>
+                                                <td>
+                                                    @item.ScheduledStart
+                                                </td>
+                                                <td>@item.ScheduledEnd </td>
+                                                <td> @item.Status</td>
+                                                <td> @item.TotalPrice</td>
+
+                                                <td class="col-md-4" style="margin:0px;padding:0px;">
+                                                    <a style="height:max-content"
+                                                       asp-controller="Bookings" asp-action="Edit" asp-route-id="@item.Id"
+                                                       class="btn btn-info btn-fw">Edit</a>
+
+
+                                                    <button type="button"  
+                                                       class="btn btn-danger btn-fw" data-id="@item.Id "  > 
+                                                       Delete
+                                                   </button>
+              
+                                                </td>
+
+                                            </tr>
+                                        }
+
+
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content-wrapper ends -->
+            <!-- partial -->
+        </div>
+        <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+</div>
+
+
+    @section Scripts {
+        <!-- Plugin js for this page -->
+        <script src="~/admin/assets/vendors/datatables.net/jquery.dataTables.js"></script>
+        <script src="~/admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+        <!-- End plugin js for this page -->
+        <!-- Custom js for this page -->
+        <script src="~/admin/assets/js/data-table.js"></script>
+        <!-- End custom js for this page -->
+
+    <script>
+        $(document).ready(function () {
+            $('.btn-danger').on('click', function (e) {
+                e.preventDefault();
+                var id = $(this).data('id');
+                var deleteUrl = '@Url.Action("Delete", "Bookings") / ? id = ' + id;
+
+                customAlert.confirmDelete(() => {
+                    window.location.replace(deleteUrl); // سيتم التوجيه بعد التأكيد
+                });
+            });
+        });
+    </script>
+
+    @if (TempData["MessageType"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                let messageType = parseInt('@TempData["MessageType"]'); // تحويل إلى رقم
+
+                switch (messageType) {
+                    case 1:
+                        customAlert.success('Your data has been saved successfully', 'Saved Successfully');
+                        break;
+                    case 2:
+                        customAlert.error('Your data has not been saved successfully', 'Save Failed');
+                        break;
+                    case 3:
+                        customAlert.success('Your data has been deleted successfully', 'Deleted Successfully');
+                        break;
+                    case 4:
+                        customAlert.error('Your data has not been deleted successfully', 'Delete Failed');
+                        break;
+                    default:
+                        console.log("Unknown message type");
+                }
+            });
+        </script>
+    }
+    }
+

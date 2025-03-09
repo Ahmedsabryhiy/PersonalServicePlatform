@@ -1,0 +1,92 @@
+﻿@model TbBookingDTO 
+
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> form BooKing </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#"></a></li>
+                <li class="breadcrumb-item active" aria-current="page"></li>
+            </ol>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-md-8 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title"></h4>
+                    <p class="card-description">  </p>
+                    <form class="forms-sample" method="post" enctype="multipart/form-data"
+                          asp-controller="Bookings" asp-action="Save" role="form">
+                        <input asp-for="Id" type="hidden" />
+
+                        <div class="form-group">
+                            <label asp-for="ProviderId"></label>
+                            <select asp-for="ProviderId" class="form-control"
+                                    asp-items="ViewBag.ListProviders">
+                                <option value="">-- Select Provider --</option>
+                            </select>
+                            <span asp-validation-for="ProviderId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ServiceId "></label>
+                            <select asp-for="ServiceId" class="form-control"
+                                    asp-items="ViewBag.ListServices">
+                                <option value="">-- Select Service --</option>
+                            </select>
+                            <span asp-validation-for="ServiceId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CustomerId"></label>
+                            <select asp-for="CustomerId" class="form-control"
+                                    asp-items="ViewBag.ListCustomers">
+                                <option value="">-- Select Customer --</option>
+                            </select>
+                            <span asp-validation-for="CustomerId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">  Booking date </label>
+                            <input asp-for="BookingDate " type="text" class="form-control" placeholder=" Booking date">
+                            <span asp-validation-for="BookingDate"></span>
+                        </div>
+
+                  
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">Scheduled Start</label>
+                            <input asp-for="ScheduledStart" type="date" class="form-control" placeholder="Scheduled Start">
+                            <span asp-validation-for=" ScheduledStart "></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">Scheduled end </label>
+                            <input asp-for=" ScheduledEnd" type="date" class="form-control" placeholder="Scheduled end">
+                            <span asp-validation-for=" ScheduledEnd "></span>
+                        </div>
+                        <div class="form-group ">
+                            <label for="exampleInputUsername1"> Status</label>
+                            <input asp-for="Status  " type="text " class="form-control" placeholder="Status">
+                            <span asp-validation-for="Status"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">Total Price</label>
+                            <input asp-for="TotalPrice " type="text" class="form-control" placeholder="Total Price">
+                            <span asp-validation-for="TotalPrice"></span>
+
+                        </div>
+                        <button type="submit" formmethod="post" class="btn btn-gradient-primary me-2">Save</button>
+                        <button class="btn btn-light">New</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+@section Scripts
+{
+
+}
+
+

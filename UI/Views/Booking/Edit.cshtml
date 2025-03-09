@@ -1,0 +1,71 @@
+﻿@model UI.Models.BookingViewModel
+@{
+    ViewData["Title"] = "Book Service: " + Model.Service.Name;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>@Model.Service.Description</p>
+
+<!-- Calendar container -->
+<div id="calendar"></div>
+
+<!-- Hidden form to submit booking details -->
+<form id="bookingForm" method="post" asp-action="Edit" asp-controller="Booking">
+    <input type="hidden" name="ServiceId" value="@Model.Service.Id" />
+    <input type="hidden" name="CustomerId" id="CustomerId" value="<!-- Customer Id from identity/context -->" />
+    <input type="hidden" name="ProviderId" value="@Model.Service.ProviderId" />
+    <input type="hidden" name="ScheduledStart" id="ScheduledStart" />
+    <input type="hidden" name="ScheduledEnd" id="ScheduledEnd" />
+    <input type="hidden" name="TotalPrice" value="<!-- You can calculate the price based on slot duration if needed -->" />
+    <button type="submit" class="btn btn-primary" style="display:none;" id="submitBooking">Book Now</button>
+</form>
+
+@section Scripts {
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/min/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Prepare events from available slots
+            var events = [];
+        @foreach (var slot in Model.AvailableSlots)
+        {
+            var start = slot.Date.ToString("yyyy-MM-dd") + "T" + slot.StartTime.ToString();
+            var end = slot.Date.ToString("yyyy-MM-dd") + "T" + slot.EndTime.ToString();
+            <text>
+                    events.push({
+                        title: 'Available',
+                        start: '@start',
+                        end: '@end'
+                    });
+            </text>
+        }
+
+            // Initialize FullCalendar
+            $('#calendar').fullCalendar({
+                header: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'month,agendaWeek,agendaDay'
+                },
+                defaultView: 'agendaWeek',
+                navLinks: true,
+                editable: false,
+                eventLimit: true,
+                events: events,
+                eventClick: function (calEvent, jsEvent, view) {
+                    // When an event is clicked, fill in the hidden form fields
+                    // For simplicity, we'll assume the booking time is the start and end of the event.
+                    $('#ScheduledStart').val(calEvent.start.format());
+                    $('#ScheduledEnd').val(calEvent.end.format());
+                    // Show the booking button
+                    $('#submitBooking').show();
+                    alert('Selected slot: ' + calEvent.start.format("YYYY-MM-DD HH:mm") + " to " + calEvent.end.format("HH:mm"));
+                }
+            });
+        });
+    </script>
+}
+

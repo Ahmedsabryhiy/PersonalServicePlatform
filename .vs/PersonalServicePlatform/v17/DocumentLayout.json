@@ -1,0 +1,2013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\shared\\hj2wdwbm.cvc~||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\shared\\hj2wdwbm.cvc~||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\basetabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\Downloads\\sweetalert2.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\Downloads\\sweetalert2.min (1).css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\03e5fa3388ee4e642e3d8fd9a9b9acb7c741607a953324460f90fa87bdf72048\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250220070858_AddNotificatonTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\dbcontext\\personserviceplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbproviderprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbcustomerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\paymentmethods\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\paymentmethods\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\services\\contextconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\services\\contextconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\provideravailabitiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\provideravailabitiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbprovideravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\provideravailabitiy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\provideravailabitiy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\providers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\providers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\provideravailabitiy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\provideravailabitiy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\providers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\providers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\basetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\notifications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\notifications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250305091108_addtableapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\userresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\servicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\mappingprofiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\models\\vmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\models\\vmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\webapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\helpers\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\helpers\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|c:\\users\\workstation\\source\\repos\\personalserviceplatform\\ui\\areas\\admin\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6623DF-01CD-46CE-8F99-CD79939D2119}|UI\\UI.csproj|solutionrelative:ui\\areas\\admin\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbnotificattiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250301071930_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250301071504_updatetablesnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250301064933_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250301064210_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbprovideravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7732D-C6A9-46CF-AA92-687549A9E85D}|..\\Domain\\Domain.csproj|c:\\users\\workstation\\source\\repos\\domain\\entities\\tbpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250227064751_addnewcoulm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\provideravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\iprovideravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\provideravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84868CF-A794-434D-AB26-F56B02A5C959}|..\\WebAPIs\\WebAPIs.csproj|c:\\users\\workstation\\source\\repos\\webapis\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\contracts\\iproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250223083518_addcoulmintableprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BB6D31-B93C-4BF6-8440-F582D92B686B}|..\\Application\\Application.csproj|c:\\users\\workstation\\source\\repos\\application\\dots\\tbreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\exceptions\\dataaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\personserviceplatformcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8187C31-BCFD-4658-8445-F36FCDEB075A}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\workstation\\source\\repos\\infrastructure\\migrations\\20250220072223_intinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T05:18:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "..\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Application.csproj",
+              "RelativeToolTip": "..\\Application\\Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T05:16:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T05:15:00.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T08:08:05.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "UI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:44:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:39:58.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs [Read Only]",
+              "ViewState": "AgIAADYAAAAAAAAAAAAnwEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:04:24.504Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\ICustomerService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:27:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:29:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hj2wdwbm.cvc~",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Shared\\hj2wdwbm.cvc~",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Shared\\hj2wdwbm.cvc~",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Shared\\hj2wdwbm.cvc~",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Shared\\hj2wdwbm.cvc~",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-07T07:19:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\appsettings.Development.json",
+              "RelativeToolTip": "UI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T07:19:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Models\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Models\\BookingViewModel.cs",
+              "RelativeToolTip": "UI\\Models\\BookingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:52:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonServicePlatformContext.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\DbContext\\PersonServicePlatformContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DbContext\\PersonServicePlatformContext.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\DbContext\\PersonServicePlatformContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DbContext\\PersonServicePlatformContext.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAYwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:37:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseTableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\BaseTableDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\BaseTableDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\BaseTableDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\BaseTableDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:20:25.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:37:28.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwHAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:57:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:02.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\BaseService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\BaseService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:51:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:18:12.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:56:42.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TbProviderProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbProviderProfileDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbProviderProfileDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbProviderProfileDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbProviderProfileDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:54:55.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TbCustomerProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbCustomerProfileDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbCustomerProfileDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbCustomerProfileDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbCustomerProfileDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:01:51.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentMethodsController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\PaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\PaymentMethodsController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\PaymentMethodsController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\PaymentMethodsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\PaymentMethods\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\PaymentMethods\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\PaymentMethods\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\PaymentMethods\\Edit.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:29:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ContextConfig.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Services\\ContextConfig.cs",
+              "RelativeDocumentMoniker": "UI\\Services\\ContextConfig.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Services\\ContextConfig.cs",
+              "RelativeToolTip": "UI\\Services\\ContextConfig.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:36:11.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TbBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbBookingDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbBookingDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbBookingDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbBookingDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:37:41.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProviderAvailabitiyController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ProviderAvailabitiyController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\ProviderAvailabitiyController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ProviderAvailabitiyController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\ProviderAvailabitiyController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:47.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TbProviderAvailabilityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbProviderAvailabilityDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbProviderAvailabilityDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbProviderAvailabilityDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbProviderAvailabilityDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:52:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Edit.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:48:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:54:06.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Providers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Providers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Providers\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Providers\\Edit.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwC4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:52:18.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Index.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\ProviderAvailabitiy\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:32:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TbServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbServiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbServiceDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbServiceDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbServiceDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:34:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:30:16.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\ProvidersController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\ProvidersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Providers\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Providers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Providers\\Index.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Providers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:53:09.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TbProvider.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbProvider.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbProvider.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbProvider.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:47:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseTable.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\BaseTable.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\BaseTable.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\BaseTable.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\BaseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:20:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "UI\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:21:14.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:03:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:36:52.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:56:37.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Notifications\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\Notifications\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\Notifications\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\Notifications\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:57:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:16:11.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250305091108_addTableApplication.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250305091108_addTableApplication.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250305091108_addTableApplication.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250305091108_addTableApplication.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250305091108_addTableApplication.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:11:08.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:21:59.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\UserDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\UserDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:04:51.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:17:51.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:17:12.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:03:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\UserResultDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\UserResultDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\UserResultDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\UserResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:08:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Services\\UserService.cs",
+              "RelativeToolTip": "UI\\Services\\UserService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:29:17.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IServicesService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IServicesService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IServicesService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IServicesService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IServicesService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:59:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ServicesService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ServicesService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ServicesService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ServicesService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ServicesService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:02:06.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IBookingService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IBookingService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:24:31.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:07:18.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "..\\Application\\MappingProfiles\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeToolTip": "..\\Application\\MappingProfiles\\MappingProfiles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAEBUwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:23:52.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VmServices.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Models\\VmServices.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\VmServices.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Models\\VmServices.cs",
+              "RelativeToolTip": "UI\\Models\\VmServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:32:50.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MultiSelectList.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "ToolTip": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:23:27.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:04:14.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:08:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:08:46.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:16:16.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:11:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "WebAPIs.csproj",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\WebAPIs.csproj",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\WebAPIs.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\WebAPIs.csproj",
+              "RelativeToolTip": "..\\WebAPIs\\WebAPIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T08:16:07.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:09:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T08:15:55.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "..\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Application.csproj",
+              "RelativeToolTip": "..\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T08:16:01.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:04:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:04:07.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\appsettings.json",
+              "RelativeToolTip": "..\\WebAPIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T04:55:26.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:02:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Helpers\\Enums.cs",
+              "RelativeDocumentMoniker": "UI\\Helpers\\Enums.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Helpers\\Enums.cs",
+              "RelativeToolTip": "UI\\Helpers\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:02:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "UI\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\PersonalServicePlatform\\UI\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "UI\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:01:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sweetalert2.min.css",
+              "DocumentMoniker": "C:\\Users\\workstation\\Downloads\\sweetalert2.min.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\sweetalert2.min.css",
+              "ToolTip": "C:\\Users\\workstation\\Downloads\\sweetalert2.min.css",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\sweetalert2.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T05:11:01.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sweetalert2.min (1).css",
+              "DocumentMoniker": "C:\\Users\\workstation\\Downloads\\sweetalert2.min (1).css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\sweetalert2.min (1).css",
+              "ToolTip": "C:\\Users\\workstation\\Downloads\\sweetalert2.min (1).css",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\sweetalert2.min (1).css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T05:10:44.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\workstation\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAtwJsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:28:40.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "TbPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbPaymentDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbPaymentDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbPaymentDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:49:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TbCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbCategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbCategoryDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:40:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbCategory.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbCategory.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbCategory.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:47:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "TbNotificattionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbNotificattionDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbNotificattionDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbNotificattionDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbNotificattionDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:42:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "TbService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbService.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:48:08.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20250301071930_update.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301071930_update.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250301071930_update.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301071930_update.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250301071930_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:19:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20250301071504_updateTablesNames.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301071504_updateTablesNames.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250301071504_updateTablesNames.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301071504_updateTablesNames.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250301071504_updateTablesNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:15:04.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TbCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbCustomer.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbCustomer.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbCustomer.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbCustomer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:47:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "TbBooking.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbBooking.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbBooking.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbBooking.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbBooking.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:44:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20250301064933_updateTable.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301064933_updateTable.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250301064933_updateTable.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301064933_updateTable.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250301064933_updateTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:49:33.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250301064210_updateTables.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301064210_updateTables.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250301064210_updateTables.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250301064210_updateTables.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250301064210_updateTables.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:42:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\03e5fa3388ee4e642e3d8fd9a9b9acb7c741607a953324460f90fa87bdf72048\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\03e5fa3388ee4e642e3d8fd9a9b9acb7c741607a953324460f90fa87bdf72048\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\03e5fa3388ee4e642e3d8fd9a9b9acb7c741607a953324460f90fa87bdf72048\\ResourceInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\03e5fa3388ee4e642e3d8fd9a9b9acb7c741607a953324460f90fa87bdf72048\\ResourceInvoker.cs",
+              "ViewState": "AgIAALABAAAAAAAAAIAwwMgBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:35:12.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "TbReview.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbReview.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbReview.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbReview.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:48:03.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TbProviderAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbProviderAvailability.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbProviderAvailability.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbProviderAvailability.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbProviderAvailability.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:47:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "TbNotification.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbNotification.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbNotification.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbNotification.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbNotification.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:52:19.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "TbPayment.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbPayment.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\TbPayment.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Domain\\Entities\\TbPayment.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\TbPayment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:47:32.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20250227064751_addNewCoulm.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250227064751_addNewCoulm.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250227064751_addNewCoulm.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250227064751_addNewCoulm.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250227064751_addNewCoulm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:47:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:14:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:55:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ProviderAvailabilityController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ProviderAvailabilityController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\ProviderAvailabilityController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ProviderAvailabilityController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\ProviderAvailabilityController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:59:41.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:08:06.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:38:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IProviderAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IProviderAvailabilityService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IProviderAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IProviderAvailabilityService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IProviderAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:52:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ProviderController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\ProviderController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\ProviderController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\ProviderController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:36:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\PaymentMethodController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\PaymentMethodController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\PaymentMethodController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:07:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAwwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:56:58.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:27:47.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\workstation\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwFcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:24:34.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Program.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Program.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:54:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IBaseService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IBaseService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:57:52.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ProviderAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ProviderAvailabilityService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ProviderAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ProviderAvailabilityService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ProviderAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:55:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "..\\WebAPIs\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\WebAPIs\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "..\\WebAPIs\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:24:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IReviewService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IReviewService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:16:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:18:55.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:49:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IPaymentService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:46:53.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\NotificationService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:41:38.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\INotificationService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\INotificationService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:37:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:31:44.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:30:28.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\BookingService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:27:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ProviderService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ProviderService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Services\\ProviderService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:18:47.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "IProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IProviderService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Contracts\\IProviderService.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Contracts\\IProviderService.cs",
+              "RelativeToolTip": "..\\Application\\Contracts\\IProviderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:15:55.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:06:15.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20250223083518_AddCoulmInTableProvider.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250223083518_AddCoulmInTableProvider.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250223083518_AddCoulmInTableProvider.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250223083518_AddCoulmInTableProvider.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250223083518_AddCoulmInTableProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:35:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "TbReviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbReviewDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Dots\\TbReviewDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Application\\Dots\\TbReviewDTO.cs",
+              "RelativeToolTip": "..\\Application\\Dots\\TbReviewDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:57:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "DataAccessException.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Exceptions\\DataAccessException.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Exceptions\\DataAccessException.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Exceptions\\DataAccessException.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Exceptions\\DataAccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:30:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "PersonServicePlatformContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\PersonServicePlatformContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\PersonServicePlatformContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\PersonServicePlatformContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\PersonServicePlatformContextModelSnapshot.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:42:01.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20250220072223_intinal.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250220072223_intinal.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250220072223_intinal.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250220072223_intinal.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250220072223_intinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:22:23.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-20T07:20:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250220070858_AddNotificatonTable.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250220070858_AddNotificatonTable.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250220070858_AddNotificatonTable.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\Infrastructure\\Migrations\\20250220070858_AddNotificatonTable.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250220070858_AddNotificatonTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:08:58.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
